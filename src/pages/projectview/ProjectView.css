@@ -1,0 +1,51 @@
+.pv-projectview {
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+
+    justify-content: space-between;
+}
+
+.pv-projectview td {
+    text-align: center;
+    width: auto;
+    height: 65px;
+}
+
+.pv-projectview th {
+    text-align: center;
+    width: auto;
+    height: 65px;
+}
+
+.pv-dash-bg-pink {
+    width: 114px !important;
+    height: 49px !important;
+    background-color: #4aa8e0 !important;
+    font-family: NanumSquare;
+    font-style: normal !important;
+    padding: 10px 8px;
+    font-weight: bold !important;
+    font-size: 16px;
+    border-radius: 0 !important;
+    color: #FFFFFF !important;
+    border: none;
+
+}
+
+.pv-project-btn {
+    display: flex;
+    align-items: center;
+    margin-top: 78px;
+    margin-bottom: 40px;
+}
+
+.react-bootstrap-table td:last-child {
+    color: #4aa8e0;
+    cursor: pointer;
+}
+
+td img {
+    border-radius: 5px;
+    width: 70px;
+}
